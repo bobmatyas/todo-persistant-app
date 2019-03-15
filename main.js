@@ -1,7 +1,7 @@
 $(() => {
-  const BASE_ID = 'appyDyVP4qpxcdZeh'; // TODO Put your Base ID here 
+  const BASE_ID = ''; // TODO Put your Base ID here 
   const Airtable = {
-    API_KEY: 'keyYHpguL8vWS3uT2',  // TODO Put your API_KEY here
+    API_KEY: '',  // TODO Put your API_KEY here
     API: `https://api.airtable.com/v0/${BASE_ID}`,
   };
 
